@@ -57,7 +57,40 @@ To ensure a robust and scalable solution, the app follows modern Android develop
 - **Password Visibility Toggle:** Custom trailing icons with reactive UI updates.
 - **Responsive Design:** Fully adapted for different screen sizes with scrollable containers.
 
-![Splash Screen](./assets/SplashScreen.png) ![Login Screen](./assets/LoginScreen.png) ![SignUp Screen](./assets/SignUpScreen.png)
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/ed6a7eaf-5495-46c5-bd25-aeef2d52fc8a" />
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/3ab862c0-10fd-4c6c-b86f-bc1279c9e97e" /> 
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/8b18fb6c-99b2-4cd7-84da-4b81d0e20342" />
+
+### 3. Home
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/cec37825-cc36-449a-a17d-d085c4be7964" />
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/29bbebb0-814f-4e2f-9186-9150f0f5d08e" />
+
+### 4. Team Goals
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/650fef3c-141f-486c-a2ec-a0429ebb31d2" />
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/79fe1653-9644-42ea-8fa1-bc95f3c32bd7" />
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/5c27608e-5cce-4d6c-a623-452da09e844f" />
+
+### 5. Progress Settings
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/040fb185-9dc0-4c93-a4f4-eb0177f7fdb9" />
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/3b13e743-de76-4de0-b010-702d2686c496" />
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/ab5f7aed-d4a2-4576-85c9-9fe9fbc5e117" />
+
+### 6. Detailed Dashboard
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/84a77647-7b2b-4916-9b4e-2afe713ff8d9" />
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/6fd4e7bc-1853-4ad4-a255-15e6e43dfbab" />
+
+### 7. Settings
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/aaa02b18-e995-43f1-b65a-0c3b51dc21ea" />
+
+### 8. Personal Data
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/c744d86f-bd7d-488c-ae24-bd0f7eec5705" />
+
+### 9. Language Selection
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/1d523f2b-7ddb-42d4-af59-8365143e21cc" />
+
+### 10. About
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/4a1c7d2d-f4b0-4bd0-93c2-27d4f354d2ef" />
+<img width="346" height="787" alt="image" src="https://github.com/user-attachments/assets/580bf4f1-00fd-4016-8da2-fe53bbcdf933" />
 
 ---
 
